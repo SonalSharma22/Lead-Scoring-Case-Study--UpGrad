@@ -7,6 +7,7 @@ The typical lead conversion rate at X education is around 30%. Now, although X E
 A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.There are some more problems presented by the company which your model should be able to adjust to if the company's requirement changes in the future so you will need to handle these as well.
 
 ## Steps Followed
+
 Reading Data
 Cleaning Data
 EDA
